@@ -67,8 +67,8 @@ Suggestions:
    3. Don't learn the whole course, learn some of the projects or the key points, but this will affect your learning experience.
 2. For group 2, 
    1. If you resist the deadline 2 - 3 months, you should increase your weekly time investment to 20 hrs/week(3 hrs/day)
-   2. If you would like to extend your deadline to 4 months, keep your weekly time investment to 10 hrs/week.
-   3. If you would like to have 8 months budget, go for 5 hrs/week and join group 3.
+   2. If you would like to extend your deadline to 4 months, keep your weekly time investment to 10 hrs/week and join group 3.
+   3. If you would like to have 8 months budget, go for 5 hrs/week and join group 4.
    4. Also, like group 1, you can learn some of the projects or the key points, but this will still affect your learning experience.
 3. For group 3, it might be the best choice for most of the participants, you can keep your weekly time investment to 10 hrs/week, and extend your deadline to 4 months. You will have enough time to learn the whole course, and have a good learning experience.
 4. For those who would like to have 8 months budget, you can join group 4 and keep your weekly time investment to 5 hrs/week.
