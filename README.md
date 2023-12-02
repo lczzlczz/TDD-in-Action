@@ -18,11 +18,11 @@ Individual should,
 ## Plan & Progress
 
 1. [x] Create wechat group and slack workspace.
-2. [x] Each Participant should create a GitHub account and fork/watch this repository.
-3. [x] Create learning plan, the [issue](https://github.com/lczzlczz/TDD-in-Action/issues/4)
-    - [x] Create a survey for TDD learning plan purposes. 
-    - [x] The survey is complete. [Survey result](./plan-survey-result.md)
-    - [ ] Plan based on the information and learning resources. [Further Analysis and Plan](./further-analysis-and-plan.md)
+2. [ ] Each Participant should create a GitHub account and fork/watch this repository.
+3. [ ] Create learning plan, the [issue](https://github.com/lczzlczz/TDD-in-Action/issues/4)
+    - [ ] Create a survey for TDD learning plan purposes. 
+    - [ ] The survey is complete.
+    - [ ] Plan based on the information and learning resources. 
     - [ ] Give 2 - 3 learning plans. 
     - [ ] Explain the plans to the group members.
     - [ ] Vote for the best plan.
@@ -37,23 +37,7 @@ Individual should,
 - [测试驱动开发](https://book.douban.com/subject/1230036/)
 - [重构(第二版)](https://book.douban.com/subject/30468597/)
 
-## Our Team
-
-
-## How tos:
-
-> 1. How to mention `all` in slack channel?
-
-    `@all` is not allowed in slack channel, please use `@channel` instead. 
-
-> 2. How to mention a team in slack channel?
-    
-
 ## Contributing
-
-## Collaborators
-
-
 
 
 ## License
